@@ -25,3 +25,14 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 - [ ] Migrate the application to a cloud environment (AWS/Linux backend).
 - [ ] Implement a serverless architecture for event-driven features (like email notifications on task deadlines).
 - [ ] Finalize documentation, optimize database queries, and prepare for deployment.
+
+
+# Project Roadmap & Status
+
+- **Phase 1.1: Architecture & Schema Design** —  **Complete** (July 5, 2026)
+  - Designed core database tables and shift logic schemas.
+  - Saved technical specifications in `docs/schema.sql`.
+- **Phase 1.2: Core Java Spring Boot Backend** —  **In Progress** (Target: July 19, 2026)
+  - Initializing repository framework and folder structures.
+- **Phase 1.3: Data Models & Shift Logic** —  *Planned* (Target: Aug 31, 2026)
+- **Phase 1.4: Local Database Integration** —  *Planned* (Target: Oct 4, 2026)
