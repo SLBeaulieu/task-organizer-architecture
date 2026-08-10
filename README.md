@@ -1,3 +1,5 @@
+Status: Work in Progress / Active Development
+
 # task-organizer-architecture
 A full-stack task manager built to show how Java, Python, and C++ work together. Instead of messy if/then code, it uses clean design patterns to handle task states. It connects a secure Java backend to lightweight microservices, all moving toward a scalable cloud setup. Follow my 12-month roadmap below to see it grow!
 
