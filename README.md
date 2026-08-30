@@ -5,11 +5,11 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 
 ##Project Roadmap
 
-### Phase 1: Architecture & Backend Foundation (Months 1–3)
-- [ ] Design system architecture, database schemas, and REST API endpoints.
-- [ ] Build the core Java Spring Boot backend.
-- [ ] Implement data models and state management for tasks (Todo, In Progress, Completed).
-- [ ] Set up local database integration (PostgreSQL/MySQL) and unit testing.
+### Phase 1: Core Domain & State Machine Logic
+- [x] Phase 1.1: Project Architecture & Repository Setup
+- [x] Phase 1.2: Shift Profile & Task Schema Definition
+- [x] Phase 1.3: Task Data Models & State Transition Logic
+- [ ] Phase 1.4: State Machine Unit Testing (JUnit 5)
 
 ### Phase 2: Core Web Application & API Layer (Months 4–6)
 - [ ] Develop the user interface (Frontend) using a clean web ecosystem.
