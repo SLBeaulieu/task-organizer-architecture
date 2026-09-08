@@ -35,7 +35,7 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 
 | Milestone | Status |
 | :--- | :--- |
-| **Phase 2.1: Local Database Integration (PostgreSQL & JPA)** | Due: September 27th, 2026 |
+| **Phase 2.1: Local Database Integration (PostgreSQL & JPA)** |In Progress Due: September 27th, 2026 |
 | **Phase 2.2: State Pattern Refactoring & REST API** | Due: Oct 11th, 2026 |
 | **Phase 2.3: User Authentication & Spring Security** | Due: Oct 25th, 2026 |
 | **Phase 2.4: Frontend Task Board UI** | Due: November 8th, 2026 |
