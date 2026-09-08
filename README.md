@@ -9,7 +9,7 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 - [x] Phase 1.1: Project Architecture & Repository Setup
 - [x] Phase 1.2: Shift Profile & Task Schema Definition
 - [x] Phase 1.3: Task Data Models & State Transition Logic
-- [ ] Phase 1.4: State Machine Unit Testing (JUnit 5)
+- [x] Phase 1.4: State Machine Unit Testing (JUnit 5)
 
 ### Phase 2: Core Web Application & API Layer (Months 4–6)
 - [ ] Develop the user interface (Frontend) using a clean web ecosystem.
@@ -31,10 +31,22 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 
 # Project Roadmap & Status
 
-- **Phase 1.1: Architecture & Schema Design** —  **Complete** (July 5, 2026)
-  - Designed core database tables and shift logic schemas.
-  - Saved technical specifications in `docs/schema.sql`.
-- **Phase 1.2: Core Java Spring Boot Backend** —  **Complete** (July 7th, 2026)
-  - Initializing repository framework and folder structures.
-- **Phase 1.3: Data Models & Shift Logic** —  **Complete** (Target: Aug 31, 2026)
-  - **Phase 1.4: Local Database Integration** —  *In progress* (Target: Oct 4, 2026)
+## Phase 2 Roadmap: Core Web Application & API Layer (Months 4–6)
+
+| Milestone | Status |
+| :--- | :--- |
+| **Phase 2.1: Local Database Integration (PostgreSQL & JPA)** | Due: September 27th, 2026 |
+| **Phase 2.2: State Pattern Refactoring & REST API** | Due: Oct 11th, 2026 |
+| **Phase 2.3: User Authentication & Spring Security** | Due: Oct 25th, 2026 |
+| **Phase 2.4: Frontend Task Board UI** | Due: November 8th, 2026 |
+| **Phase 2.5: Full-Stack Integration & End-to-End Testing** | Due: November 22nd, 2026 |
+
+---
+
+### Key Deliverables
+
+- **Phase 2.1:** Hook up PostgreSQL, configure Spring Data JPA, and persist the `Task` entity.
+- **Phase 2.2:** Refactor `TaskManager` using the State Pattern and expose REST endpoints (`/api/tasks`).
+- **Phase 2.3:** Add Spring Security, user login/registration, and protect routes.
+- **Phase 2.4:** Build a clean frontend dashboard with task columns (`TODO`, `IN_PROGRESS`, `COMPLETED`).
+- **Phase 2.5:** Connect frontend to backend APIs, handle CORS, and verify end-to-end flows.
