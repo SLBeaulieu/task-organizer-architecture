@@ -11,18 +11,18 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 - [x] Phase 1.3: Task Data Models & State Transition Logic
 - [x] Phase 1.4: State Machine Unit Testing (JUnit 5)
 
-### Phase 2: Core Web Application & API Layer (Months 4–6)
+### Phase 2: Core Web Application & API Layer 
 - [ ] Develop the user interface (Frontend) using a clean web ecosystem.
 - [ ] Connect the frontend to the Java Spring Boot REST API.
 - [ ] Implement secure user authentication and session management.
 - [ ] Refactor code using design patterns (Singleton, State) to minimize conditional complexity.
 
-### Phase 3: Multi-Language Microservices (Months 7–9)
+### Phase 3: Multi-Language Microservices 
 - [ ] **Python Integration:** Build a microservice for data analysis (e.g., tracking user productivity metrics or task completion trends).
 - [ ] **C++ Integration:** Develop a high-performance, low-latency background utility (e.g., local file backup or system resource monitor).
 - [ ] Establish secure Inter-Process Communication (IPC) and network APIs between microservices.
 
-### Phase 4: Cloud Migration, DevOps, & Optimization (Months 10–12)
+### Phase 4: Cloud Migration, DevOps, & Optimization 
 - [ ] Containerize the application components using Docker.
 - [ ] Migrate the application to a cloud environment (AWS/Linux backend).
 - [ ] Implement a serverless architecture for event-driven features (like email notifications on task deadlines).
@@ -31,15 +31,15 @@ A full-stack task manager built to show how Java, Python, and C++ work together.
 
 # Project Roadmap & Status
 
-## Phase 2 Roadmap: Core Web Application & API Layer (Months 4–6)
+## Phase 2 Roadmap: Core Web Application & API Layer
 
 | Milestone | Status |
 | :--- | :--- |
-| **Phase 2.1: Local Database Integration (PostgreSQL & JPA)** |In Progress Due: September 27th, 2026 |
-| **Phase 2.2: State Pattern Refactoring & REST API** | Due: Oct 11th, 2026 |
-| **Phase 2.3: User Authentication & Spring Security** | Due: Oct 25th, 2026 |
-| **Phase 2.4: Frontend Task Board UI** | Due: November 8th, 2026 |
-| **Phase 2.5: Full-Stack Integration & End-to-End Testing** | Due: November 22nd, 2026 |
+| **Phase 2.1: Local Database Integration (PostgreSQL & JPA)** |In Progress Due: Nov 22nd, 2026 |
+| **Phase 2.2: State Pattern Refactoring & REST API** | Due: Dec 30th, 2026  |
+| **Phase 2.3: User Authentication & Spring Security** | Due: Jan 17th, 2027 |
+| **Phase 2.4: Frontend Task Board UI** | Due: Jan 31st, 2027  |
+| **Phase 2.5: Full-Stack Integration & End-to-End Testing** | Due: Feb 28th, 2027 |
 
 ---
 
